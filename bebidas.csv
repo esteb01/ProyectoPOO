@@ -1,0 +1,11 @@
+nombre,marca,grado_alcohol,precio,tipo,sabor,o_anio
+Cerveza Rubia,Cerveza ABC,5.0,2.5,Cerveza,,
+Cerveza Oscura,Cerveza XYZ,6.5,3.0,Cerveza,,
+Vino Tinto,Vino del Valle,12.0,10.0,Vino,,2020
+Vino Blanco,Vino del Lago,11.0,12.0,Vino,,2019
+Licor de Frutas,Licores ABC,20.0,15.0,Licor,Fruta,
+Vodka Premium,Vodka XYZ,40.0,25.0,Licor,,
+Tequila Tradicional,Tequila El Mejor,38.0,20.0,Licor,,
+Cerveza IPA,Cerveza IPA Co.,7.0,3.5,Cerveza,,
+Vino Rosado,Vino Rosado SRL,11.5,11.0,Vino,,2021
+Cerveza de Trigo,Cerveza de Trigo SRL,5.5,2.75,Cerveza,,
